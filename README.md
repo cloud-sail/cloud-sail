@@ -13,6 +13,9 @@
 
 <br>
 
+
+[![Yunfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-sail)](https://github.com/cloud-sail)
+
 [portfolio]: https://www.yunfanhe.com 
 [linkedin]: https://www.linkedin.com/in/yunfan-he/
 
@@ -29,5 +32,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card
 -->
 
