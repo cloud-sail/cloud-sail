@@ -1,4 +1,5 @@
 # Hi there I'm [Yunfan][portfolio]!👋
+![](res/Spline3D.gif)
 
 - I'm currently learning game programming in SMU Guildhall.
 - I'm building a custom C++ game engine with DirectX12 and Procedural Content Generation.
